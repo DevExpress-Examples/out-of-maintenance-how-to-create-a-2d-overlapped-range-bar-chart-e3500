@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DOverlappedRangeBarChart", "2DOverlappedRangeBarChart\2DOverlappedRangeBarChart.csproj", "{FB8F7CCA-E21A-482E-844C-BB523F68F166}"
 EndProject
 Global
